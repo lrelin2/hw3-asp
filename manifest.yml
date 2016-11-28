@@ -8,3 +8,5 @@ applications:
   disk_quota: 1024M
   services:
   - hw3asp-cloudantNoSQLDB
+  - availability-monitoring-auto
+  - ElephantSQL-7j
